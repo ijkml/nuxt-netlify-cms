@@ -31,7 +31,7 @@
     "postcss": "^8.4.27",
     "postcss-easing-gradients": "^3.0.1",
     "postcss-preset-env": "^9.1.1",
-    "prettier": "^3.0.0",
+    "prettier": "^3.0.1",
     "vue-content-placeholders": "^0.2.1"
   }
 }
