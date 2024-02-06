@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "@nuxt/content": "^2.11.0",
-    "nuxt": "^3.9.3"
+    "nuxt": "^3.10.1"
   },
   "devDependencies": {
     "@nuxtjs/color-mode": "^3.3.2",
