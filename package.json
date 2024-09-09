@@ -28,7 +28,7 @@
     "eslint-plugin-prettier": "^5.2.1",
     "netlify-cli": "^17.35.0",
     "nuxt-purgecss": "^2.0.0",
-    "postcss": "^8.4.44",
+    "postcss": "^8.4.45",
     "postcss-easing-gradients": "^3.0.1",
     "postcss-preset-env": "^10.0.2",
     "prettier": "^3.3.3",
